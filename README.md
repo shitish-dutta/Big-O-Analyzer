@@ -1,4 +1,4 @@
-# Demo: https://big-o-analyzer.streamlit.app/
+Demo: https://big-o-analyzer.streamlit.app/
 
 # ⚡ Big-O Analyzer
 
